@@ -1,0 +1,1060 @@
+/*  responsive css start */
+
+@media (min-width: 1800px) {
+  .container {
+    max-width: 1620px;
+  }
+}
+
+@media (max-width: 1850px) {
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 30%;
+  }
+}
+
+@media (max-width: 1750px) {
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 26%;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .wedtestimonial_box {
+    margin-top: 330px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .container {
+    max-width: 1520px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 21%;
+  }
+
+  .wedding_services_box .weddingservice_bottom_box .service_box_1 .service_img_box {
+    padding: 15px;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_story_box {
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 1599px) {
+  .wedding_about_us_box .wedding_aboutbox_one .about_img_box {
+    width: 95%;
+    padding-top: 20px;
+    padding-right: 20px;
+  }
+
+  .wedteam_wrapper .wedteam_innerbox_1 .wedteam_img_box1 {
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+  }
+
+  .wedteam_wrapper .wedteam_innerbox_1 .organizermain_wrapper .organizer_wrapper {
+    width: 830px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box .wedblog_box_top .wedblog_icon_box {
+    left: 0%;
+  }
+}
+
+@media (max-width: 1550px) {
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 17%;
+  }
+}
+
+@media (max-width: 1499px) {
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 14%;
+  }
+
+  .wedinstagram_wrapper {
+    padding: 50px 0px 170px 0px;
+  }
+
+  .padding100 {
+    padding: 75px 0px;
+  }
+
+  .wedinstagram_wrapper .story_insta_wrapper {
+    left: 0;
+  }
+
+  .wedding_news_wrapper {
+    padding-bottom: 75px;
+  }
+}
+
+@media (max-width: 1399px) {
+  .wedding_planner_box .wedding_planner_title_box {
+    width: 560px;
+  }
+
+  .wedding_planner_box .wedding_planner_title_box h1 a {
+    font-size: 60px;
+  }
+
+  .wedding_planner_box .wedding_planner_title_box h5 {
+    font-size: 30px;
+  }
+
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 8%;
+  }
+
+  .wedding_contact_form .weddingcontact_side_box-2 img {
+    width: 100%;
+  }
+
+  .wedinstagram_wrapper {
+    padding: 20px 0px 130px 0px;
+  }
+
+  .wedding_news_wrapper {
+    padding-bottom: 55px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box .wedding_footertop_box2 .footer_icon_wrap ul li a {
+    width: 40px;
+    height: 40px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box .wedding_footertop_box2 .footer_icon_wrap ul li a i {
+    font-size: 18px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box .wedding_footertop_box2 .footer_icon_wrap ul li a svg {
+    width: 18px;
+  }
+}
+
+@media (max-width: 1299px) {
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 3%;
+  }
+
+  .wedding_heading2 {
+    font-size: 35px;
+  }
+
+  .wedinstagram_wrapper .story_insta_wrapper {
+    margin-top: 25px;
+  }
+
+  .wedcounter_wrapper .wedcounter_box .counter-text .count {
+    font-size: 50px;
+  }
+
+  .wedfeature_wrapper::before {
+    width: 300px;
+    height: 300px;
+  }
+
+  .wedding_about_us_box::before {
+    width: 85px;
+    height: 415px;
+  }
+
+  .wedding_about_us_box::after {
+    width: 235px;
+    height: 235px;
+  }
+
+  .wedcounter_wrapper::after {
+    width: 130px;
+    height: 150px;
+  }
+
+  .wedtestimonial_wrapper::after {
+    width: 270px;
+    height: 270px;
+  }
+
+  .wedding_contact_form .wedding_form_box .wedding_forminner_box {
+    padding: 30px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .owl-carousel .owl-item.active.center .wedtestimonialmain_slider .testomg_box {
+    opacity: 1;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .testomg_box {
+    top: -80%;
+  }
+
+  .wedcounter_wrapper .wedcounter_box span {
+    width: 75px;
+    height: 75px;
+  }
+
+  .wedcounter_wrapper .wedcounter_box span a svg {
+    width: 30px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .wedding_services_box .weddingservice_bottom_box .service_box_1 .service_text_box {
+    padding: 20px;
+  }
+
+  .wedding_services_box .weddingservice_bottom_box .service_box_1 .service_text_box a {
+    font-size: 18px;
+  }
+
+  .wedding_services_box .weddingservice_bottom_box .service_box_1 .service_img_box {
+    padding: 10px;
+  }
+
+  .wedding_heading2 {
+    font-size: 30px;
+  }
+
+  .wedding_heading1 a {
+    font-size: 35px;
+  }
+
+  .ind22-btn {
+    font-size: 14px;
+    padding: 10px 35px;
+  }
+
+  .wedding_about_us_box .wedding_aboutbox_two .wedabout_ul ul li a {
+    font-size: 17px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider {
+    width: 570px;
+    height: 570px;
+    right: 0%;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box {
+    width: 570px;
+    height: 570px;
+    padding: 22px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .owl-carousel .owl-nav {
+    bottom: 5%;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_story_box .wedfeature_couple_name a {
+    font-size: 35px;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_story_box .wedfeature_date {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .wedcounter_wrapper .wedcounter_box .counter-text .count {
+    font-size: 45px;
+  }
+
+  .wedteam_wrapper .wedteam_innerbox_1 .organizermain_wrapper .organizer_wrapper {
+    width: 690px;
+  }
+
+  .wedding_heading2 {
+    font-size: 25px;
+  }
+
+  .wedding_heading1 a {
+    font-size: 30px;
+  }
+
+  .wedding_contact_form .wedding_form_box .wedding_forminner_box form .wedsubmit_box {
+    margin-top: 15px;
+  }
+
+  .wedding_gallery_wrapper {
+    padding: 70px 0px 100px 0px;
+  }
+
+  .wedding_contact_form .wedding_form_box .wedding_forminner_box {
+    top: -45px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box .wedblog_box_bottom h3 a {
+    font-size: 20px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box .wedblog_box_top .wedblog_icon_box {
+    padding: 12px;
+    width: 290px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box .wedblog_box_top .wedblog_icon_box ul li a span {
+    margin-right: 3px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .wedtestimonial_box {
+    margin-top: 275px;
+    padding: 25px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .testomg_box {
+    top: -75%;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .wedtestimonial_box h5 a {
+    font-size: 22px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .owl-carousel .owl-nav {
+    margin-top: 40px;
+  }
+
+  .weddingHeader .sb-main-header1 .menu-item-wrapper3 .my-menu-header .social-media-icons li a .sidebar-toggle {
+    width: 30px;
+    height: 30px;
+  }
+
+  .weddingHeader .sb-main-header1 .menu-item-wrapper3 .my-menu-header .social-media-icons {
+    -moz-column-gap: 8px;
+    column-gap: 8px;
+  }
+
+  .weddingHeader .sb-main-header1 .menu-item-wrapper3 .my-menu-header nav ul li a {
+    font-size: 14px;
+  }
+
+  .weddingHeader .sb-main-header1 .menu-item-wrapper3 .my-menu-header nav ul {
+    gap: 16px;
+  }
+}
+
+@media (max-width: 1099px) {
+  .wedcounter_wrapper .wedcounter_box .counter-text .count {
+    font-size: 35px;
+  }
+
+  .wedcounter_wrapper .wedcounter_box .counter-text .count-title {
+    bottom: -14px;
+  }
+
+  .wedcounter_wrapper .wedcounter_box .counter-text .count {
+    font-size: 35px;
+  }
+
+  .wedinstagram_wrapper {
+    padding: 15px 0px 35px 0px;
+  }
+
+  .wedding_news_wrapper {
+    padding-bottom: 25px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box {
+    width: 550px;
+    height: 550px;
+    padding: 17px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box {
+    padding: 25px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider {
+    width: 550px;
+    height: 550px;
+  }
+
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 6%;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box .wedding_footertop_box2 .footer_icon_wrap ul li a {
+    width: 35px;
+    height: 35px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box .wedding_footertop_box2 .footer_icon_wrap ul li a i {
+    font-size: 16px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box .wedding_footertop_box2 .footer_icon_wrap ul li a svg {
+    font-size: 16px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box .wedding_footertop_box2 h3 a {
+    font-size: 22px;
+  }
+
+  .weddingHeader .sb-main-header1 .menu-item-wrapper3 .my-menu-header .social-media-icons {
+    -moz-column-gap: 5px;
+    column-gap: 5px;
+  }
+
+  .weddingHeader .sb-main-header1 .menu-item-wrapper3 .my-menu-header .social-media-icons li a .sidebar-toggle {
+    width: 30px;
+    height: 30px;
+  }
+
+  .weddingHeader .sb-main-header1 .menu-item-wrapper3 .my-menu-header nav ul {
+    gap: 12px;
+  }
+
+  .weddingHeader .sb-main-header1 .menu-item-wrapper3 .my-menu-header nav ul li a {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 999px) {
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .testomg_box {
+    top: -100%;
+  }
+}
+
+@media (max-width: 991px) {
+  .padding100 {
+    padding: 50px 0px;
+  }
+
+  .wedding_about_us_box .row {
+    row-gap: 30px;
+  }
+
+  .wedding_services_box .row {
+    row-gap: 50px;
+  }
+
+  .wedfeature_wrapper .row {
+    row-gap: 30px;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_box_img .feature_img1::after {
+    top: -12%;
+    width: 50%;
+    height: 300px;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_box_img .feature_img2::after {
+    bottom: -14%;
+    width: 50%;
+    height: 300px;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_story_box .wedfeature_btn_box {
+    margin-top: 22px;
+  }
+
+  .wedfeature_wrapper::before {
+    width: 200px;
+    height: 200px;
+  }
+
+  .wedding_about_us_box::before {
+    width: 85px;
+    height: 280px;
+  }
+
+  .wedcounter_wrapper .row {
+    row-gap: 30px;
+  }
+
+  .wedcounter_wrapper::after {
+    width: 118px;
+    height: 140px;
+    top: -10%;
+  }
+
+  .wedteam_wrapper .row {
+    row-gap: 30px;
+  }
+
+  .wedteam_wrapper .wedteam_innerbox_2 {
+    margin-bottom: 60px;
+  }
+
+  .wedtestimonial_wrapper::before {
+    top: 2%;
+    width: 140px;
+    height: 200px;
+  }
+
+  .wedtestimonial_wrapper::after {
+    width: 200px;
+    height: 200px;
+  }
+
+  .wedding_contact_form .row {
+    row-gap: 10px;
+  }
+
+  .wedding_contact_form .wedding_form_box .wedding_forminner_box {
+    position: relative;
+  }
+
+  .wedding_contact_form .weddingcontact_side_box-2 {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .wedding_contact_form .weddingcontact_side_box-2 img {
+    width: 45%;
+  }
+
+  .wedding_news_wrapper {
+    padding-top: 40px;
+  }
+
+  .wedding_news_wrapper .row {
+    row-gap: 30px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box {
+    width: 470px;
+    height: 470px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider {
+    width: 470px;
+    height: 470px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .couple_name_ul li a {
+    font-size: 30px;
+  }
+
+  .wedcouple_text_box .wedcouple_inner_text_box .wedding_date_box a {
+    font-size: 18px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box p {
+    margin-top: 8px;
+    font-size: 15px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .wedcouple_title_text {
+    margin-bottom: 3px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .couple_name_ul {
+    margin-top: 0px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .couple_name_ul li span svg {
+    width: 35px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .wedding_date_box {
+    margin-top: -14px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .wedding_date_box a {
+    font-size: 18px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box .wedding_footertop_box2 .footer_icon_wrap ul {
+    -moz-column-gap: 14px;
+    column-gap: 14px;
+  }
+
+  footer .wedding_footer_wrapper .weddingbottom_footer ul li ul {
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+  }
+
+  footer .wedding_footer_wrapper {
+    padding: 280px 0px 0px 0px;
+  }
+
+  footer .wedding_footer_wrapper .weddingbottom_footer ul li ul {
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+  }
+
+  footer .wedding_footer_wrapper .weddingbottom_footer ul li ul {
+    flex-wrap: wrap;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box .wedding_footertop_box2 .wedfooter_ul_box ul li a {
+    font-size: 15px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedding_footertop_box1 p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .wedding_planner_box .wedding_planner_title_box h1 a {
+    font-size: 50px;
+  }
+
+  .wedding_planner_box .wedding_planner_title_box h5 {
+    font-size: 25px;
+    margin-top: 15px;
+  }
+
+  .wedding_planner_box .wedding_planner_title_box {
+    width: 450px;
+  }
+
+  .wedding_planner_box {
+    padding-top: 165px;
+  }
+
+  .wedding_planner_box .plannerslider_box {
+    margin-top: 75px;
+  }
+
+  .wedding_about_us_box::before {
+    display: none;
+  }
+
+  .wedding_about_us_box .wedding_aboutbox_one .about_img_box {
+    width: 100%;
+  }
+
+  .wedding_services_box .weddingservice_top_box .service_title_text {
+    margin-bottom: 0px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .wedtestimonial_box {
+    margin-top: 300px;
+  }
+
+  .wedsubscribe_box .inner_webscribe_box .inner_webscribe_boxtop {
+    margin-bottom: 20px;
+  }
+
+  .wedsubscribe_box .inner_webscribe_box .wedsubcribe_form_wrapper {
+    max-width: 540px;
+  }
+
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 10%;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider {
+    position: relative;
+    margin: 0 auto;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box {
+    box-shadow: none;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_img_box {
+    margin-bottom: 40px;
+  }
+
+  .wedding_services_box .weddingservice_bottom_box .service_box_1 .service_img_box {
+    width: 65%;
+  }
+
+  .wedteam_wrapper .wedteam_innerbox_1 .wedteam_img_box1 .team_wrap_box1 .teamwrap_text {
+    width: 200px;
+    padding: 14px 0px 15px 0px;
+  }
+
+  .wedding_gallery_wrapper .wedgallery-gallery_items .row .col-mar {
+    padding: 0px 5px 0px 5px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box {
+    width: 70%;
+    margin: auto;
+  }
+
+  .wedinstagram_wrapper .wedinstagram_box_top .insta_link {
+    margin-top: 10px;
+  }
+
+  .wedinstagram_wrapper .wedinstagram_box_top .wedinsta_title_text {
+    margin-bottom: 5px;
+  }
+
+  .wedteam_wrapper .wedteam_innerbox_1 .organizermain_wrapper .organizer_wrapper {
+    width: 100%;
+  }
+
+  footer .wedding_footer_wrapper {
+    padding: 240px 0px 0px 0px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .row {
+    row-gap: 20px;
+  }
+
+  footer .wedding_footer_wrapper .weddingtop_footer .wedfooter_com_box {
+    justify-content: start;
+  }
+
+  footer .wedding_footer_wrapper .weddingbottom_footer ul li p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 576px) {
+  .wedding_planner_box .wedding_planner_title_box h1 a {
+    font-size: 41px;
+  }
+
+  .wedding_planner_box .wedding_planner_title_box h5 {
+    font-size: 22px;
+  }
+
+  .wedding_planner_box .wedding_planner_title_box {
+    width: 400px;
+  }
+
+  .wedding_planner_box .plannerslider_box .wedding_slider {
+    padding-left: 270px;
+  }
+
+  .wedding_heading1 a {
+    font-size: 28px;
+  }
+
+  .wedding_heading2 {
+    font-size: 22px;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_story_box .wedfeature_date {
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_story_box .wedfeature_couple_name a {
+    font-size: 30px;
+  }
+
+  .wedteam_wrapper .wedteam_innerbox_1 .wedteam_img_box1 {
+    flex-wrap: wrap;
+    row-gap: 70px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .testomg_box {
+    top: -88%;
+  }
+
+  .wedding_gallery_wrapper {
+    padding: 50px 0px 100px 0px;
+  }
+
+  .wedtestimonial_wrapper::after {
+    width: 130px;
+    height: 130px;
+  }
+
+  .wedtestimonial_wrapper::before {
+    top: 2%;
+    width: 90px;
+    height: 130px;
+  }
+
+  .wedsubscribe_box .inner_webscribe_box .wedsubcribe_form_wrapper form .food-form-btn .pro-btn {
+    font-size: 14px;
+    width: 150px;
+  }
+
+  .wedsubscribe_box .inner_webscribe_box .wedsubcribe_form_wrapper {
+    max-width: 400px;
+  }
+
+  .wedsubscribe_box .inner_webscribe_box .wedsubcribe_form_wrapper form .wedsearch-box input {
+    padding-left: 18px;
+    font-size: 14px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box {
+    width: 100%;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider {
+    width: 400px;
+    height: 470px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box p {
+    margin-top: 4px;
+    font-size: 14px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box {
+    padding: 15px;
+  }
+
+  .wedfeature_wrapper::before {
+    width: 120px;
+    height: 120px;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_box_img .feature_img1::after {
+    display: none;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box .wedfeature_box_img .feature_img2::after {
+    display: none;
+  }
+}
+
+@media (max-width: 425px) {
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .wedtestimonial_box {
+    margin-top: 280px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .testomg_box {
+    top: -75%;
+  }
+
+  .wedding_gallery_wrapper .wedgallery-gallery_items .row {
+    row-gap: 10px;
+  }
+
+  .wedsubscribe_box .inner_webscribe_box .wedsubcribe_form_wrapper {
+    max-width: 320px;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box {
+    margin-top: 60px;
+  }
+
+  .wedcouple_wrapper::before {
+    display: none;
+  }
+
+  .wedding_planner_box .wedding_planner_title_box {
+    width: 100%;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider {
+    width: 350px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .couple_name_ul li span svg {
+    width: 28px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .couple_name_ul li a {
+    font-size: 26px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .wedding_date_box a {
+    font-size: 16px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .owl-carousel .owl-nav {
+    bottom: 4%;
+  }
+
+  .wedding_contact_form .wedding_form_box .wedding_forminner_box .wedcontact_title_text {
+    margin-bottom: 25px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box {
+    width: 85%;
+  }
+
+  .wedding_services_box .weddingservice_bottom_box .service_box_1 .service_img_box {
+    width: 85%;
+  }
+
+  footer .wedding_footer_wrapper .weddingbottom_footer ul li p {
+    text-align: center;
+  }
+
+  .wedding_planner_box .plannerslider_box .slideNxtPrev .owlNavBtn .btn-wrap .prev-btn svg {
+    width: 35px;
+  }
+
+  .wedding_planner_box .plannerslider_box .slideNxtPrev .owlNavBtn .btn-wrap .next-btn svg {
+    width: 35px;
+  }
+
+  .wedding_planner_box .plannerslider_box .slideNxtPrev .owlNavBtn .btn-wrap .slider-counter {
+    color: #fff;
+    font-size: 13px;
+  }
+
+  .wedding_planner_box .plannerslider_box .slideNxtPrev .owlNavBtn .btn-wrap {
+    -moz-column-gap: 5px;
+    column-gap: 5px;
+  }
+
+  .wedding_planner_box .plannerslider_box .wedding_slider {
+    padding-left: 160px;
+  }
+
+  .wedding_planner_box .plannerslider_box .slideNxtPrev {
+    left: 4%;
+  }
+
+  .wedding_planner_box .wedding_planner_title_box h5 {
+    font-size: 20px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .wedding_date_box {
+    margin-top: -20px;
+  }
+
+  .wedinstagram_wrapper .wedinstagram_box_top .insta_link a {
+    font-size: 18px;
+  }
+
+  footer .wedding_footer_wrapper {
+    padding: 150px 0px 0px 0px;
+  }
+}
+
+@media (max-width: 375px) {
+  .wedfeature_wrapper::before {
+    display: none;
+  }
+
+  .wedfeature_wrapper .wedfeature_bottom_box {
+    margin-top: 40px;
+  }
+
+  .wedding_heading2 {
+    font-size: 20px;
+  }
+
+  .wedding_heading1 a {
+    font-size: 26px;
+  }
+
+  .wedtestimonial_wrapper::after {
+    display: none;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .testomg_box img {
+    width: 100%;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .wedtestimonial_box {
+    margin-top: 240px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .testomg_box {
+    top: -60%;
+  }
+
+  .wedtestimonial_wrapper .wedtest_inner_top_box {
+    margin-bottom: 25px;
+  }
+
+  .wedding_gallery_wrapper {
+    padding: 25px 0px 100px 0px;
+  }
+
+  .wedding_gallery_wrapper .wedgallery-gallery_items .portfolio_img_wrapper .wedgallery_heading {
+    height: 35%;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .owl-carousel .owl-nav {
+    margin-top: 35px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box .wedblog_box_top .wedblog_icon_box ul {
+    -moz-column-gap: 10px;
+    column-gap: 10px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box .wedblog_box_top .wedblog_icon_box ul li a span {
+    margin-right: 2px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box .wedblog_box_top .wedblog_icon_box ul li a span svg {
+    width: 14px;
+  }
+
+  .wedding_news_wrapper .wedding_news_wrapper_bottom .weddingblog_box .wedblog_box_top .wedblog_icon_box {
+    padding: 12px;
+    width: 265px;
+  }
+
+  .wedsubscribe_box .inner_webscribe_box .wedsubcribe_form_wrapper form .food-form-btn .pro-btn {
+    width: 115px;
+  }
+
+  .wedsubscribe_box .inner_webscribe_box .wedsubcribe_form_wrapper {
+    max-width: 285px;
+  }
+
+  .wedteam_wrapper .wedteam_innerbox_2 .team_wrap_box1 .teamwrap_text {
+    width: 200px;
+    padding: 15px 0px 15px 0px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .wedtestimonial_box p {
+    font-size: 15px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider {
+    width: 330px;
+  }
+
+  .wedding_about_us_box .wedding_aboutbox_two .wedabout_ul ul li a {
+    font-size: 13px;
+  }
+
+  .wedding_planner_box .wedding_planner_title_box h1 a {
+    font-size: 35px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .owl-carousel .owl-nav {
+    bottom: 3%;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .couple_name_ul li span svg {
+    width: 23px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .couple_name_ul li a {
+    font-size: 24px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .wedding_date_box {
+    margin-top: -22px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box {
+    border-radius: 85px 5px 5px 5px;
+  }
+
+  footer .wedding_footer_wrapper {
+    padding: 120px 0px 0px 0px;
+  }
+
+  footer .wedding_footer_wrapper .weddingbottom_footer ul {
+    flex-wrap: wrap;
+    row-gap: 15px;
+  }
+}
+
+@media (max-width: 360px) {
+  #sidebar #cssmenu {
+    width: 270px;
+  }
+
+  #sidebar {
+    width: 270px;
+  }
+}
+
+@media (max-width: 350px) {
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider {
+    width: 300px;
+  }
+
+  .wedcouple_wrapper .wedcouple_box .wedcouple_slider .wedcouple_text_box .wedcouple_inner_text_box .couple_name_ul {
+    margin-top: -15px;
+  }
+
+  .wedtestimonial_wrapper .wedtestlider_wrapper .wedtestimonial_slider .wedtestimonialmain_slider .testomg_box {
+    top: -50%;
+  }
+}
